@@ -79,6 +79,8 @@ My interests span **Java Full Stack Development, Backend Development, Frontend D
 
 ---
 
+👉 **Explore my repositories:** [Chelsi Shukla's GitHub Repositories](https://github.com/chelsishukla23?tab=repositories)
+
 # 📌 Featured Projects
 
 ## 🏠 StayEase
